@@ -1,0 +1,17 @@
+'''
+Testing LSTM
+AUC Score: 0.6923666666666666 
+Acc Score 0.58333
+
+Testing ANN
+AUC Score: 0.7291666666666666
+Acc Score: 0.62500
+
+Testing Logistic Regression
+AUC Score:  0.7016666666666667
+Acc Score:  0.7016666666666667
+
+Testing GNN
+AUC Score:  0.745
+Acc Score:  0.6583333333333333
+'''
